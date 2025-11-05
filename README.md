@@ -1,1 +1,1 @@
-# iskolai_projekt
+# Ez Szandi verziója a projektből
