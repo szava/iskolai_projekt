@@ -1,1 +1,1 @@
-# iskolai_projekt
+# Ez Anna verziója a projektből
